@@ -1,4 +1,4 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
+# I Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 
 ## https://youtu.be/egS6fnZAdzk
 
 <img width="398" alt="image" src="https://github.com/user-attachments/assets/73b9892b-fe09-4828-a637-0dacb981dc3a" />
