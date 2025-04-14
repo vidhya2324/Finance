@@ -1,6 +1,5 @@
 # AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 
-## https://youtu.be/egS6fnZAdzk
-
+## [https:www.linkedin.com/in/vidhya-s2324](https://www.linkedin.com/in/vidhya-s2324/)
 <img width="398" alt="image" src="https://github.com/user-attachments/assets/73b9892b-fe09-4828-a637-0dacb981dc3a" />
 
 
